@@ -4,4 +4,3 @@ Centralised Spinnaker CD platform repository.
 - Optional patch manifests
 - Rendering scripts
 - Used by all application pipelines
-# spinnaker-cd-platform
